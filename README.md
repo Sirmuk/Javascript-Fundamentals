@@ -1,2 +1,2 @@
 # Javascript-Fundamentals
-JS scripting
+JS scripting as part of cypress Automation
